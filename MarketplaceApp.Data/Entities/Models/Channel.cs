@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace MarketplaceApp.Data.Entities.Models
 {
-    internal class Channel
+    public class Channel
     {
+        public Channel(string name)
+        {
+            Name = name;
+        }
+
+        public int Id { get; set; }
+        public string Name { get; set; }
+
     }
 }
