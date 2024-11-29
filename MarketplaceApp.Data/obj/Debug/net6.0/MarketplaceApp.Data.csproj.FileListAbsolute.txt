@@ -1,0 +1,12 @@
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\bin\Debug\net6.0\MarketplaceApp.Data.deps.json
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\bin\Debug\net6.0\MarketplaceApp.Data.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\bin\Debug\net6.0\MarketplaceApp.Data.pdb
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\refint\MarketplaceApp.Data.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\MarketplaceApp.Data.pdb
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Data\obj\Debug\net6.0\ref\MarketplaceApp.Data.dll

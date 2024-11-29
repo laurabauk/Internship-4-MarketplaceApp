@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MarketplaceApp.Presentation/1.0.0": {
+        "dependencies": {
+          "MarketplaceApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarketplaceApp.Presentation.dll": {}
+        }
+      },
+      "MarketplaceApp.Data/1.0.0": {
+        "runtime": {
+          "MarketplaceApp.Data.dll": {}
+        }
+      },
+      "MarketplaceApp.Domain/1.0.0": {
+        "dependencies": {
+          "MarketplaceApp.Data": "1.0.0"
+        },
+        "runtime": {
+          "MarketplaceApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketplaceApp.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketplaceApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarketplaceApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

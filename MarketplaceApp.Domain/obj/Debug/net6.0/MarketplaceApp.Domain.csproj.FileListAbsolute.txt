@@ -1,0 +1,15 @@
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.AssemblyInfo.cs
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\bin\Debug\net6.0\MarketplaceApp.Domain.deps.json
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\bin\Debug\net6.0\MarketplaceApp.Domain.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\bin\Debug\net6.0\MarketplaceApp.Domain.pdb
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\bin\Debug\net6.0\MarketplaceApp.Data.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\bin\Debug\net6.0\MarketplaceApp.Data.pdb
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.csproj.CopyComplete
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\refint\MarketplaceApp.Domain.dll
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\MarketplaceApp.Domain.pdb
+C:\Users\laura\OneDrive\Desktop\MarketplaceApp\MarketplaceApp.Domain\obj\Debug\net6.0\ref\MarketplaceApp.Domain.dll

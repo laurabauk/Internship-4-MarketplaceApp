@@ -1,32 +1,28 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MarketplaceApp.Data.Entities.Models
+﻿namespace MarketplaceApp.Data.Entities.Models
 {
     public class User
     {
-        public User(string email, string password)
-        {
-            Email = email;
-            Password = password;
-        }
-
-        public User(string email, string password, bool isAdmin) 
-        {
-            Email = email;
-            Password = password;
-            IsAdmin = isAdmin;
-
-        }
-
         public int Id { get; set; }
+        public string Name { get; set; }
         public string Email { get; set; }
-        public string Password { get; set; }  
-        public bool IsAdmin { get; set; }
+        public decimal Balance { get; set; }
+        public bool IsSeller { get; set; }
 
+        public User(string name, string email, decimal balance)
+        {
+            Name = name;
+            Email = email;
+            Balance = balance;
+            IsSeller = false;
+        }
 
+        public User(string name, string email)
+        {
+            Name = name;
+            Email = email;
+            IsSeller = true;
+            Balance = 0;
+        }
     }
 }
+

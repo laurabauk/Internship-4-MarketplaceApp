@@ -9,11 +9,9 @@ namespace MarketplaceApp.Data
 {
     public class Context
     {
-        public List<User> Users { get; set; } = Seed.Users;
-        public List<Channel> Channels { get; set; } = new List<Channel>();
-        public Context()
-        {
-
-        }
+        public List<User> Users { get; set; } = new List<User>();
+        public List<Product> Products { get; set; } = new List<Product>();
+        public List<Transaction> Transactions { get; set; } = new List<Transaction>();
     }
+
 }
